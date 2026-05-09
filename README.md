@@ -1,15 +1,12 @@
 # ENCS3320 – Computer Networks Project #1: Socket Programming
 
-**Faculty of Engineering & Technology – Electrical & Computer Engineering Department**
-Birzeit University | Spring 2025
 
 **Team Members:**
-- Aya Abdullah — ID: 1220782
-- Lana Darmna — ID: 1220588
-- Jeneen Sattof — ID: 1221682
+- Aya Abdullah 
+- Lana Darmna 
+- Jeneen Sattof 
 
-**Instructor:** Alhareth Zyoud
-**Submission Date:** May 10, 2025
+
 
 ---
 
