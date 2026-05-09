@@ -1,5 +1,7 @@
 # ENCS3320 – Computer Networks Project #1: Socket Programming
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-Programming-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-IP%20%7C%20Routing%20%7C%20Subnetting-success?style=flat-square)
 
 **Team Members:**
 - Aya Abdullah 
